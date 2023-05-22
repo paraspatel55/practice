@@ -1,0 +1,26 @@
+body {
+  background: rgb(97, 164, 226);
+}
+.main {
+  margin: auto;
+  width: 60%;
+  text-align: center;
+}
+.main h1 {
+  margin-top: 150px;
+  text-shadow: 2px 2px gray;
+}
+.main p {
+  text-align: justify;
+}
+.box {
+  padding: 10px;
+  background: rgb(78, 157, 231);
+  margin-top: 100px;
+  text-align: justify;
+}
+.box ul li {
+  line-height: 20px;
+  padding: 2px;
+  margin: 20px;
+}
